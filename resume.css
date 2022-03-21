@@ -1,5 +1,5 @@
 * {
-  color: rgb(51, 119, 107);
+  
   margin: 0;
   box-sizing: border-box;
 }
@@ -137,7 +137,7 @@ main{
   .more-about-me{
     text-align: center;
     color: #2C3333;
-    opacity: 0.8;
+    
 
   }
   .heart{
